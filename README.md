@@ -1,3 +1,3 @@
 # Chair Shop
 
-Chair Shop: https://agne-jazdauskiene.github.io/05-Design/
+Chair Shop: https://agne-jazdauskiene.github.io/Lisbon-Chair-Shop/
